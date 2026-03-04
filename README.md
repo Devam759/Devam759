@@ -30,12 +30,14 @@ I'm a **Computer Science Engineering student** at **JK Lakshmipat University**, 
   <img src="https://streak-stats.demolab.com/?user=Devam759&theme=tokyonight&hide_border=true&v=1.0.1" width="100%" alt="GitHub Streak" />
 </div>
 ---
-### 🛠️ Tech Stack
+
+###  Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,nextjs,tailwind,nodejs,mongodb,mysql,git,linux,firebase,vercel&perline=7" />
   </a>
 </p>  
+
 ---
 
 ### 🐍 Contribution Journey
